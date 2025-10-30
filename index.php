@@ -137,3 +137,6 @@ echo $poste->getCpuClock()." GHz";
 # Appel du getter pour récupérer la nouvelle fréquence
 # Affichera : "3 GHz"
 ?>
+
+
+
